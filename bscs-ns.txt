@@ -2,4 +2,8 @@
 Hello World!
 Hi ate abby
 
+#include<iostream>
 
+int main(){
+	cout<<"Hello!";
+}
